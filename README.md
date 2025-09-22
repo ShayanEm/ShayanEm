@@ -9,6 +9,7 @@ C - C++ - C# - Java - Python - Jupyter - JavaScript - HTML - CSS - VHDL - Scala 
 - MCU: Microcontroller (Embedded ARM) <br>
 - FPGA: Field Programmable Gate Arrays <br>
 - AI: Artificial intelligence
+- WEB: Full stack website (Front end + Back end)
 
 
 <!--
